@@ -64,6 +64,9 @@
     <Image Include="Six.png">
       <Filter>Source Files</Filter>
     </Image>
+    <Image Include="8PuzzleGif.gif">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.vs">
